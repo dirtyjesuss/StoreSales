@@ -13,5 +13,5 @@
 - **test.csv** - таблица тестовой выборки, по ней нужно предсказать объем продаж на конкретный день, в конкретном магазине, определенной группы товаров
 
 ## Ссылки🔗
-**YouTube**🎥: https://youtu.be/vyswHtwLKk8
-**Соревнование Kaggle**🤺: https://www.kaggle.com/c/store-sales-time-series-forecasting/data?select=oil.csv
+- **YouTube**🎥: https://youtu.be/vyswHtwLKk8
+- **Соревнование Kaggle**🤺: https://www.kaggle.com/c/store-sales-time-series-forecasting/data?select=oil.csv
